@@ -1,0 +1,5 @@
+Tested with TP-Link AX53 V1/V1 Firmware
+
+Usage: ubidmp.py <firmware>
+
+The script will create one file per volume with the prefix dmp_ followed by the UBI volume name.
